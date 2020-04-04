@@ -1,6 +1,6 @@
-##911 Calls Capstone Project
+## 911 Calls Capstone Project
 
-I will be analyzing some 911 call data from Kaggle. The data contains the following fields:
+I will be analyzing some 911 calls data from Kaggle. The data contains the following fields:
 
 * lat : String variable, Latitude
 * lng: String variable, Longitude
